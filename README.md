@@ -12,21 +12,35 @@ I believe good code is like good design — intuitive, maintainable, and made wi
 ---
 
 ## 🧠 What I Know  
-
 **Frontend:**  
-<span style="color:#f7df1e">💛 JavaScript</span> · <span style="color:#61dafb">⚛ React</span> · <span style="color:#dd1b16">🔺 Angular</span> · <span style="color:#38b2ac">💚 Tailwind</span> · 🎨 UI/UX Design · 🖌 Figma  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> `JavaScript` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> `React` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="20"/> `Angular` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="20"/> `Tailwind` · 🎨 UI/UX Design · 🖌 Figma  
 
 **Backend:**  
-<span style="color:#3c873a">🟩 Node.js</span> · <span style="color:#000000">🖤 Express</span> · <span style="color:#747fff">💙 PHP</span> · <span style="color:#ff2d20">❤️ Laravel</span> · 🌐 REST APIs  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> `Node.js` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> `Express` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> `PHP` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="20"/> `Laravel` · 🌐 REST APIs  
 
 **Databases:**  
-<span style="color:#47a248">🍃 MongoDB</span> · <span style="color:#00758f">💙 MySQL</span>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> `MongoDB` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> `MySQL`  
 
 **Version Control & Collaboration:**  
-🐙 Git · 💻 GitHub · 🔗 Bitbucket · 📊 Agile Methods · 📚 Confluence  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> `Git` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> `GitHub` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="20"/> `Bitbucket` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="20"/> `Agile Methods / Jira` ·  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="20"/> `Confluence`
 
 **Fullstack Frameworks:**  
-💎 MEAN & MERN Stack · 📱 Responsive Development · 🔄 Reusable Components · 🔗 API Integration  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="20"/> `Angular` +  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> `React` +  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> `Node.js` +  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> `MongoDB` ·  
+📱 `Responsive Development` · 🔄 `Reusable Components` · 🔗 `API Integration`
 
 **Other / Soft Skills:**  
 🧩 Problem-solving · 🤝 Team collaboration · 💡 Creative thinking · ⚡ Initiative · 🔄 Adaptability · 🗣 Communication · 🚀 Quick learner · 🎯 Attention to detail · ✅ Reliability  
