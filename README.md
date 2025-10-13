@@ -12,23 +12,24 @@ I believe good code is like good design — intuitive, maintainable, and made wi
 ---
 
 ## 🧠 What I Know  
+
 **Frontend:**  
-`JavaScript` · `Angular` · `React` · `Tailwind` · `UI/UX Design` · `Figma`
+<span style="color:#f7df1e">💛 JavaScript</span> · <span style="color:#61dafb">⚛ React</span> · <span style="color:#dd1b16">🔺 Angular</span> · <span style="color:#38b2ac">💚 Tailwind</span> · 🎨 UI/UX Design · 🖌 Figma  
 
 **Backend:**  
-`Node.js` · `Express` · `PHP` · `Laravel` · `REST APIs`
+<span style="color:#3c873a">🟩 Node.js</span> · <span style="color:#000000">🖤 Express</span> · <span style="color:#747fff">💙 PHP</span> · <span style="color:#ff2d20">❤️ Laravel</span> · 🌐 REST APIs  
 
 **Databases:**  
-`MongoDB` · `MySQL`
+<span style="color:#47a248">🍃 MongoDB</span> · <span style="color:#00758f">💙 MySQL</span>  
 
 **Version Control & Collaboration:**  
-`Git` · `GitHub` · `Bitbucket` · `Agile Methods` · `Confluence`
+🐙 Git · 💻 GitHub · 🔗 Bitbucket · 📊 Agile Methods · 📚 Confluence  
 
 **Fullstack Frameworks:**  
-`MEAN` & `MERN` Stack · Responsive Development · Reusable Components · API Integration
+💎 MEAN & MERN Stack · 📱 Responsive Development · 🔄 Reusable Components · 🔗 API Integration  
 
 **Other / Soft Skills:**  
-Problem-solving · Team collaboration · Creative thinking · Initiative · Adaptability · Communication · Quick learner · Attention to detail · Reliability
+🧩 Problem-solving · 🤝 Team collaboration · 💡 Creative thinking · ⚡ Initiative · 🔄 Adaptability · 🗣 Communication · 🚀 Quick learner · 🎯 Attention to detail · ✅ Reliability  
 
 ---
 
