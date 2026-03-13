@@ -52,11 +52,11 @@ I believe good code is like good design — intuitive, maintainable, and made wi
 - Improved performance, maintainability, and scalability of backend services and frontend components.  
 
 **Fullstack Developer Intern – Luday AB (2024–2025)**  
-- Contributed to multiple projects (Ludacards, Ludaso, BestDealNaija).  
-- Developed responsive, scalable, and reusable components.  
-- Improved functionality and user experience across apps.  
-- Collaborated in a cross-functional team, delivering innovative solutions.  
-- Adapted quickly to project requirements, maintaining creativity and precision.
+- Contributed to multiple digital platforms including **Ludacards, Ludaso, and BestDealNaija**.  
+- Developed responsive and reusable frontend components and backend functionalities.  
+- Built and integrated **REST APIs** and worked with database structures to improve application performance.  
+- Improved UI/UX and system functionality across several projects.  
+- Collaborated in agile workflows with designers and developers to deliver production-ready features.
 
 ---
 
