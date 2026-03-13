@@ -42,6 +42,15 @@ I believe good code is like good design — intuitive, maintainable, and made wi
 ---
 
 ## 💼 Experience  
+
+**Fullstack Developer (Remote Freelance) – Kostricani SHPK (2024–2026)**  
+- Developed and maintained scalable full-stack web applications supporting internal tools and client-facing platforms.  
+- Built modern applications using the **MERN stack (MongoDB, Express, React, Node.js)**.  
+- Designed and implemented **RESTful APIs** and integrated third-party services such as authentication systems, payment services, and cloud storage.  
+- Implemented **secure authentication systems** including JWT and role-based access control.  
+- Collaborated remotely with cross-functional teams to deliver production-ready applications.  
+- Improved performance, maintainability, and scalability of backend services and frontend components.  
+
 **Fullstack Developer Intern – Luday AB (2024–2025)**  
 - Contributed to multiple projects (Ludacards, Ludaso, BestDealNaija).  
 - Developed responsive, scalable, and reusable components.  
