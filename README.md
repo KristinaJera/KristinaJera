@@ -1,81 +1,103 @@
 # 🌸 Hi there, I’m Kristina Jera 👋  
-### *Turning ideas into scalable, user-friendly code ✨*
+### *Turning ideas into scalable, intelligent, user-friendly solutions ✨*
 
 ---
 
 ## 👩‍💻 About Me  
-I’m a **Fullstack Developer** passionate about building responsive and scalable applications that balance clean design and strong functionality.  
+I’m a **Fullstack Developer** passionate about building responsive, scalable applications that combine clean design with strong functionality.
 
-💡 I enjoy solving complex problems, learning new technologies, and turning creative ideas into real, working solutions.  
-I believe good code is like good design — intuitive, maintainable, and made with care.
+💡 I enjoy solving complex problems, learning new technologies, and turning creative ideas into real, working products.  
+🚀 I focus on building **end-to-end solutions**, from idea to deployment, with a strong emphasis on usability and performance.  
+
+---
+
+## 🚀 What I’m Working On  
+- 📱 Developing a **cross-platform Flutter + Firebase application** (Web, iOS, Android)  
+- 🤖 Integrating **AI features using OpenAI and Anthropic (Claude)**  
+- 🎨 Building dynamic, user-friendly interfaces with real-world functionality  
+- 🔄 Focusing on **complete product thinking**: UI → Backend → Deployment  
 
 ---
 
 ## 🧠 What I Know  
 
-**Frontend:**  
+### **Frontend:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20"/> `JavaScript` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> `React` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="20"/> `Angular` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="20"/> `Tailwind` · 🎨 UI/UX Design · 🖌 Figma  
 
-**Backend:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> `Node.js` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> `Express` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> `PHP` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> `Docker`· <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="20"/> `Laravel` · 🌐 REST APIs  
+### **Backend & APIs:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> `Node.js` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> `Express` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="20"/> `PHP` · <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/laravel.svg" width="20"/> `Laravel` · 🌐 REST APIs  
 
-**Databases:**  
+### **Mobile & Cloud:**  
+📱 `Flutter` · 🔥 `Firebase (Firestore, Auth, Storage, Hosting)`  
+
+### **AI & Integrations:**  
+🤖 `OpenAI API` · 🧠 `Anthropic (Claude)` · 🔗 `AI-powered features & automation`  
+
+### **Databases:**  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> `MongoDB` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="20"/> `MySQL`  
 
-**Version Control & Collaboration:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> `Git` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> `GitHub` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="20"/> `Bitbucket` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="20"/> `Agile Methods / Jira` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="20"/> `Confluence`
+### **DevOps & Tools:**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="20"/> `Docker` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20"/> `Git` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="20"/> `GitHub` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg" width="20"/> `Bitbucket` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="20"/> `Agile / Jira` · <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" width="20"/> `Confluence`
 
-**Fullstack Frameworks:**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="20"/> `Angular` + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20"/> `React` + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20"/> `Node.js` + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="20"/> `Express` + <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20"/> `MongoDB` · 📱 `Responsive Development` · 🔄 `Reusable Components` · 🔗 `API Integration`
+---
 
-**Other / Soft Skills:**  
-🧩 `Problem-solving` · 🤝 `Team collaboration` · 💡 `Creative thinking` · ⚡ `Initiative` · 🔄 `Adaptability` · 🗣 `Communication` · 🚀 `Quick learner` · 🎯 `Attention to detail` · ✅ `Reliability`
+## 🏗️ Projects  
+
+### 🤖 Chat AI App  
+🔗 https://chat-ai-eight-hazel.vercel.app/  
+- Fullstack **MERN application with AI integration**  
+- Built conversational features using OpenAI APIs  
+- Designed scalable backend and responsive frontend  
+
+### 📱 Event App *(In Progress)*  
+- Cross-platform app built with **Flutter + Firebase**  
+- Role-based system (admin/client)  
+- QR-based event access + media sharing  
+- AI-powered invitation generation (Claude + image generation APIs)  
 
 ---
 
 ## 🎓 Education  
-🎓 **Full-Stack Developer (Higher Vocational Education)** – Chas Academy, Stockholm, Sweden *(Yrkeshögskola)*  
+🎓 **Full-Stack Developer (Higher Vocational Education)** – Chas Academy, Stockholm *(YH)*  
 📆 2023 – 2025  
-🎓 **Bachelor’s Degree in Foreign Languages** – Aleksandër Moisiu University, Durrës, Albania  
-📆 2015 – 2019
+
+🎓 **Bachelor’s Degree in Foreign Languages** – Aleksandër Moisiu University, Albania  
+📆 2015 – 2019  
 
 ---
 
 ## 💼 Experience  
 
 **Fullstack Developer (Remote Freelance) – Kostricani SHPK (2024–2026)**  
-- Developed and maintained scalable full-stack web applications supporting internal tools and client-facing platforms.  
-- Built modern applications using the **MERN stack (MongoDB, Express, React, Node.js)**.  
-- Designed and implemented **RESTful APIs** and integrated third-party services such as authentication systems, payment services, and cloud storage.  
-- Implemented **secure authentication systems** including JWT and role-based access control.  
-- Collaborated remotely with cross-functional teams to deliver production-ready applications.  
-- Improved performance, maintainability, and scalability of backend services and frontend components.  
+- Built and maintained scalable full-stack applications (MERN)  
+- Designed REST APIs and integrated third-party services  
+- Implemented secure authentication (JWT, role-based access)  
+- Improved performance and system scalability  
 
 **Fullstack Developer Intern – Luday AB (2024–2025)**  
-- Contributed to multiple digital platforms including **Ludacards, Ludaso, and BestDealNaija**.  
-- Developed responsive and reusable frontend components and backend functionalities.  
-- Built and integrated **REST APIs** and worked with database structures to improve application performance.  
-- Improved UI/UX and system functionality across several projects.  
-- Collaborated in agile workflows with designers and developers to deliver production-ready features.
+- Worked on platforms like **Ludacards, Ludaso, BestDealNaija**  
+- Developed reusable components and backend features  
+- Improved UI/UX and system performance  
+- Collaborated in agile teams with developers and designers  
 
 ---
 
 ## 🌐 Languages  
-English · Swedish · Albanian · Greek · German
+English (Fluent) · Swedish (Fluent) · Albanian (Native) · Greek (Native) · German (A2 – Basic)
 
 ---
 
 ## 📫 Let’s Connect  
 💌 [kristinajera3@gmail.com](mailto:kristinajera3@gmail.com)  
-🔗 [LinkedIn – Kristina Jera](https://www.linkedin.com/in/kristina-jera-03a30a250/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/kristina-jera-03a30a250/)  
 
 ---
 
 ## 💬 A Little About Me  
-🌿 I love crafting clean interfaces, solving logic puzzles, and learning how things work — both in code and in life.  
-⚙️ I believe every line of code can teach something new.  
-✨ On a good day, you’ll find me refining designs or exploring a new framework (and yes, maybe with a cup of tea ☕).  
+🌿 I enjoy building products that are not just functional, but intuitive and meaningful.  
+⚙️ I like understanding systems deeply — from UI to backend logic to user experience.  
+🚀 I’m driven by curiosity, ownership, and the desire to continuously improve.
 
 ---
 
-⭐ *“Write code that makes life simpler — and maybe a little prettier.”*
+⭐ *“Build things that work. Then make them better.”*
